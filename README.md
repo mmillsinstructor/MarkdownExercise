@@ -12,7 +12,7 @@
 
 [Code](code)
 
-[Stuff](code/stuff)
+[Stuff](other/stuff)
 
 [Google](https://google.com)
 
